@@ -1,0 +1,10 @@
+**/input.txt
+**/output.txt
+**/**/input.txt
+**/**/output.txt
+**/**/**/input.txt
+**/**/**/output.txt
+**/**/**/**/input.txt
+**/**/**/**/output.txt
+**/.vscode
+**/**/.vscode
